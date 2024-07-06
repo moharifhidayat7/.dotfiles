@@ -2,7 +2,7 @@
 
 # Update system and install necessary packages
 sudo pacman -Syu --noconfirm
-sudo pacman -S --noconfirm xorg bspwm sxhkd polybar rofi alacritty dmenu feh picom
+sudo pacman -S --noconfirm xorg bspwm sxhkd polybar rofi kitty dmenu feh picom
 
 # Create configuration directories
 mkdir -p ~/.config/bspwm

@@ -1,0 +1,1712 @@
+ls
+clear
+ls
+ls -la
+clear
+ls
+ls -la
+clear
+mise activate nu
+eval (mise activate nu)
+docker info
+clear
+ls
+aichat set default bash on arch linux
+chsh -s /bin/nu
+ls
+clear
+code .
+nvim .
+yay -S edge
+aichat search package with yay
+yay -Ss edge
+yay -Ss edge | fzf
+yay -S starship
+mkdir ~/.cache/starhip
+starship init nu | save -f ~/.cache/starhip/init.nu
+$nu.config-path
+nvim .
+starship preset bracketed-segments -o ~/.config/starship.toml
+ls
+cd everforest-kitty/
+ls
+yay -S zoxide
+yay -S noto-fonts
+fc-list
+fc-list ':' file
+grep /fonts ~/.local/share/xorg/Xorg.0.log
+yay -S microsoft-edge-stable-bin
+aichat turn down volume arch
+aichat -e turn down volume arch
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+nvim /etc/fonts/local.conf
+sudo nvim /etc/fonts/local.conf
+ls
+clear
+ls
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+z
+zi
+nvim ($nu.env-path)
+nvim ($nu.config-path)
+z
+zi
+cd .config
+ls
+z
+z con
+ls
+cd ..
+yay -S obsidian
+yay -Ss onedrive | fzf
+yay -S noi
+z
+bspc wm -r
+nvim .
+aichat bspwm go to desktop
+nvim .
+bspc wm -r
+aichat bspwm desktop naming
+aichat bspwm desktop naming example
+bspc desktop -l
+bspc desktop -f
+bspc desktop -b
+bspc desktop
+bspc desktop list
+bspc desktop -l --help
+bspc desktop --help
+bspc --help
+bspc
+bspc -h
+bspc wm -r
+docker run --rm --init \<\n>  --name bytebase \<\n>  --publish 8001:8080 --pull always \<\n>  --volume ~/.bytebase/data:/var/opt/bytebase \<\n>  bytebase/bytebase:2.20.0
+docker info
+docker run --rm --init \<\n>  --name bytebase \<\n>  --publish 8001:8080 --pull always \<\n>  --volume ~/.bytebase/data:/var/opt/bytebase \<\n>  bytebase/bytebase:2.20.0
+docker run --rm --init \<\n>  --name bytebase \<\n>  --publish 8001:8080 --pull always \<\n>  --volume ~/.bytebase/data:/var/opt/bytebase \  bytebase/bytebase:2.20.0
+docker run --rm --init \<\n>  --name "bytebase" \<\n>  --publish 8001:8080 --pull always \<\n>  --volume ~/.bytebase/data:/var/opt/bytebase \<\n>  bytebase/bytebase:2.20.0
+yay -S nm-connection-editor
+nmtui 
+nm-online 
+nm-connection-editor 
+htop
+btop
+bspc wm -r
+docker run --rm --init --name bytebase --publish 8001:8080 --pull always --volume ~/.bytebase/data:/var/opt/bytebase bytebase/bytebase:2.20.0
+docker ps
+picom --help
+thunar
+bspc wm -r
+aichat setup nitrogen bspwm
+yay -S nitrogen
+aichat setup nitrogen and bspwm
+aichat how to setup nitrogen and bspwm
+aichat how to install nitrogen and bspwm
+z Downloads/
+ls
+clear
+ls
+unzip under_the_strange_horizon_by_joeyjazz_dd10hnj.zip
+ls
+nitrogen
+nitrogen UH/
+LS
+aichat how to use nitrogen wallpaper
+nvim .
+aichat restart picom
+aichat how to restart picom
+pgrep picom
+kill 68794
+picom -b
+nvim .
+clear
+neofetch
+echo $SHELL
+echo ($SHELL)
+echo ($env.SHELL)
+$env
+config env
+nvim $nu.env-path
+neofetch
+htop
+btop
+$nu.config-path
+config env
+aichat yay installed packages | fzf
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+bash
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+bash
+ls
+yay -S walk
+neofetch
+aichat get battery life arch linux
+ls /proc/acpi/button/lid/LID0/state
+cat /proc/acpi/button/lid/LID0/state
+sudo pacman -S acpi
+acpi -b
+aichat get time now linux
+date +%s
+aichat -e get time now arch linux
+aichat get time now arch linux
+date
+date humanize
+date time now
+date time
+time
+time now
+date
+date now
+date to-table
+date now | to-table
+date now | table
+walk
+xrandr --output eDP1 --scale 1.25x1.25
+xrandr --output eDP1 --scale 1.2x1.2
+xrandr --output eDP1 --scale 1.1x1.1
+clear
+neofetch
+xrandr --output eDP1 --scale 1.05x1.05
+xrandr --output eDP1 --scale 1x1
+node -v
+mise --help
+mise
+.bashrc
+nvim .bashrc
+nu env
+nu conig
+nu config
+starship config
+starship env
+exit
+nu
+nu config
+config
+config nu
+mise
+.local/bin/mise activate nu
+.local/bin/mise 
+.local/bin/mise shell
+mise -v
+config nu
+config env
+echo (~/.local/bin/mise activate nu) >> $nu.env-path
+config env
+aichat append to text file on linux
+cat (~/.local/bin/mise activate nu) >> $nu.env-path
+tee
+~/.local/bin/mise activate nu
+nvim .
+ls
+echo (~/.local/bin/mise activate nu) >> test.txt
+ls
+config env
+ls
+echo (~/.local/bin/mise activate nu) | save .mise.nu
+ls
+config env
+config nu 
+nvim .
+mise -v
+mise use --global node@14
+noe -v
+node -v
+date now
+export GDK_SCALE=2<\n>export GDK_DPI_SCALE=0.5
+export GDK_SCALE=2
+aichat -e networkmanager
+aichat -e networkmanager connect
+xrdb
+xrdb -query | grep Xft.dpi
+xdpyinfo | grep -B2 resolution
+xrandr --dpi 100
+xrandr --dpi 110
+xrandr --dpi 120
+nvim .
+nm-connection-editor 
+xdpyinfo | grep -B2 resolution
+neofetch
+time now
+date now
+yay -S polybar
+aichat how to set git name and email
+git config --global user.name "Arif Hidayat"
+git config --global user.email "moharifhidayat7@gmail.com"
+clear
+polybar
+bspc wm -r
+bpad toggle
+ls
+clear
+nm-connection-editor 
+clear
+:q
+.exit
+nm-connection-editor 
+nmcli
+ping google.com
+netbird down
+nm-connection-editor 
+ip addr
+ping google.com
+date now
+ls
+mkdir NDS
+cd NDS/
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-kliring-v1.git
+cd nds-ui-kliring-v1/
+ls
+node -v
+npm install -g yarn
+ping google.com
+yarn
+cd nds-ui-kliring-v1/
+z kliring
+git branch -r
+git branch -r | fzf | str trim
+git checkout (git branch -r | fzf | str trim)
+git checkout master
+git checkout (git branch -r | fzf | str trim | src replace "origin/" "")
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+nvim .
+bspc wm -r
+aichat how to restart picom
+pkill picom
+bspc wm -r
+nvim .
+pkill picom
+bspc wm -r
+nvim .
+startx
+z kl
+z nds
+cd nds-ui2-nds/
+cd ..
+ls
+cd ..
+ls
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-cash-deposit-v2.git
+cd nds-ui-cash-deposit-v2/
+nvim .
+nvim .
+code .
+z depo
+code .
+yarn add @nds/nds-ui-proto
+code .
+git push
+aichat how to setup git credentials
+aichat --help
+aichat --info
+aichat how to setup ai temperature and compress treshold
+nvim .config/aichat/config.yaml
+aichat how to setup ai temperature and compress treshold 4000
+aichat --help
+aichat how to setup ai temperature and compress treshold 4000
+aichat how to setup git credentials arch linux
+yay -S git-credential-manager
+git config --global credential.helper store
+git credential fill
+git pull
+git push
+git credential fill
+git credential approve
+git credential fill
+aichat git credential fill takes to long
+git credential fill
+git credential-cache --clear
+z kliri
+git checkout trunk
+git checkout -b dev-arif
+git merge (git branch | fzf | str trim)
+git checkout master
+git branch -D dev-arif
+git checkout trunk
+git checkout -b dev-arif
+git pull origin trunk
+git pull (git branch | fzf | str trim) --no-commit --no-ff
+git merge (git branch | fzf | str trim) --no-commit --no-ff
+git reset --HEAD
+git reset --hard
+git merge (git branch | fzf | str trim)
+git checkout trunk
+git branch -D dev-arif
+git checkout -b dev-arif
+git merge (git branch | fzf | str trim)
+git checkout trunk
+git branch -D dev-arif
+git checkout -b dev-arif
+git merge (git branch | fzf | str trim)
+git reset --hard
+git reset HEAD-1
+git reset HEAD
+git checkout trunk
+git branch -D dev-arif
+git checkout -b dev-arif
+git merge (git branch | fzf | str trim) --no-commit --no-ff
+git branch | fzf
+git branch -r | fzf
+yay -S chrome
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-cash-deposit-v2.git
+aichat how to paste kitty terminal
+git credential fill
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-block-debit-card.git
+cd block
+cd nds-ui-block-debit-card/
+yarn
+cp ../nds-ui-cash-deposit-v2/.npmrc .
+ls
+ls -la
+ls
+ls -a
+yay -S google-chrome
+yarn dev
+yarn
+..
+ls
+yarn add -g pm2
+yarn install -g pm2
+yarn global add pm2
+pm2-docker
+pm2 --version
+pm2
+pm2 list
+mise use -g pm2
+pm2 --version
+mise use -g yarn:pm2
+mise use -g npm:pm2
+pm2 --version
+mise use -g nodee:pm2
+mise use -g node:pm2
+yarn pm2 --version
+mise settings set experimental true
+mise use -g npm:pm2
+pm2 --version
+yarn remove global pm2
+yarn global remove pm2
+pm2 --version
+pm2 list
+clear
+ls
+cd nds
+z nds
+cd ..
+cp nds-ui-cash-deposit-v2/cors-anywhere/ .
+cp -r nds-ui-cash-deposit-v2/cors-anywhere/ .
+ls
+cd cors-anywhere/
+ls
+yarn
+open package.json
+pm2 start "node index.js" --name="CORS"
+pm2 save
+git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>cd rofi-themes-collection
+ls
+..
+ls
+..
+ls
+walk
+git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>cd rofi-themes-collection
+ls
+neofetch
+NDS/
+ls
+mkdir DEVOPS
+ls
+cd DEVOPS/
+ls
+cat > compose.yml
+cat >> compose.yml
+nvim compose.yml
+docker compose up -d
+docker-compose up -d
+yay -S docker-compose
+docker compose up -d
+systemctl start docker
+docker info
+btop
+time now
+date now
+nvim .
+date now | sleep 1000
+date now | sleep 
+date now | sleep --help
+sleep --help
+date now | sleep 1sec
+sleep 1sec | date now
+sleep 1sec 1sec 1sec | date now
+loop | date now
+watch 
+aichat nushell realtime command
+aichat nushell command every sec
+every 1s { date now }
+every 1 { date now }
+every 1 { echo "date now" }
+every 1 
+every 1 | date now
+yarn
+while
+while true {<\n>  date now | strftime "%Y-%m-%d %H:%M:%S" | echo $it<\n>  sleep 1sec<\n>}<\n>
+while true {<\n>  date now<\n>  sleep 1sec<\n>}<\n>
+while true {<\n>  date now | strftime "%Y-%m-%d %H:%M:%S" | echo $in<\n>  sleep 1sec<\n>}<\n>
+while true {<\n>  date now | echo $in<\n>  sleep 1sec<\n>}<\n>
+docker compose up -d
+while true {<\n>  date now | echo $it<\n>  sleep 1sec<\n>}<\n>
+date now
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-account-opening-v2.git
+cd nds-ui-account-opening-v2/
+z nds
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-cross-selling-v1.git
+cd nds-ui-cross-selling-v1/
+yarn
+pm2 start "quasar dev --port 8093" --name="8093:Cross Selling"
+pm2 logs
+pm2 remove number 1
+pm2 remove number=1
+pm2 remove 1
+pm2 help
+pm2 -h
+pm2 del 1
+pm2 start "yarn quasar dev --port 8093" --name="8093:Cross Selling"
+pm2 logs
+pm2 list
+ls
+cd NDS/
+ls
+yarn
+mise use node@20
+mise list
+mise use node@22
+ls
+yarn
+npm install -g yarn
+ls
+htop
+node -v
+date now
+cd ..
+..
+ls
+bspc wm -r
+nvim .
+clear
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-v1.git
+ping google.com
+yarn
+pm2 start "yarn quasar dev --port 8094" --name="8094:Open Account"
+pm2 list
+z depo
+ls
+mise use node@14
+ls
+nvim .
+bspc wm -r
+yarn
+pm2 start "yarn quasar dev --port 8092" --name="8092:Cash Deposit"
+..
+ls
+date new
+date now
+bspc wm -r
+date now
+aichat bspwm move to desktop
+bspc desktop -l
+bspc desktop -l e
+bspc desktop -f
+bspc desktop -f X
+bspc wm -r
+aichat restart sxhkd
+sxhkd -r
+sxhkd -R
+clear
+sxhkd -r | aichat $in
+sxhkd -r | aichat "$0"
+sxhkd
+sxhkd -r
+pkill sxhkd
+sxhkd -r
+sxhkd
+sxhkd -d
+sxhkd -r
+sxhkd
+z ui-v1
+z nds-ui-v1
+cd nds
+cd NDS/
+ls
+cd nds-ui-v1/
+git checkout master
+git checkout development
+pm2 start "yarn quasar dev --port 8091" --name="8091:NDS UI V1"
+pm2 list
+pm2 logs
+date now
+clear
+date now
+yarn
+date now
+neofetch
+clear
+date now
+nvim .
+git checkout master
+date now
+clear
+date now
+clear
+yarn
+pm2 start "yarn quasar dev --port 8091" --name="8091:NDS UI V1"
+pm2 del 5
+pm2 list
+vim /etc/resolv.conf
+vim /etc/hosts
+sudo vim /etc/hosts
+docker ps
+z devop
+ls
+vim compose.yml
+docker compose down
+docker compose up -d
+pm2 logs
+z account
+ls
+git branch
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+pm2 logs
+code .
+google_chrome
+chrome
+date now
+docker ps
+pm2 list
+google-chrome-stable --user-data-dir=remote-debug-profile
+z depo
+open src/config.js
+:q
+pm2 list
+pm2 logs
+z depo
+google-chrome-stable --headless
+google-chrome-stable --help
+google-chrome-stable --incognito
+yay -S sqlectron-gui
+date now
+startx
+nvim .
+z font
+fc-cache -fv
+fc-match :lang=ar
+fc-match :lang=ja
+fc-cache -fv
+fc-list ':' file
+fc-match :lang=ja
+fc-match : lang=ja
+fc-match :lang=ja
+yay -S noto-fonts
+bspc desktop -l
+history
+history fzf
+history | fzf
+nvim /etc/fonts/local.conf
+sudo nvim /etc/fonts/local.conf
+fc-cache -fv
+sudo nvim /etc/fonts/local.conf
+fc-cache -fv
+date now
+neofetch
+fc-cache -fv
+ls /usr/share/fonts/local/
+sudo nvim /etc/fonts/fonts.conf
+locale -a
+yay -S noto-fonts-cjk
+aichat how to kill pacman instanse
+aichat how to delete pacman instanse
+btop
+yay -S noto-fonts-cjk
+sudo pacman -Syu
+sudo vim /etc/locale.gen
+reboot
+yay -S noto-fonts-cjk
+yay -Syu
+rm /var/lib/pacman/db.lck
+sudo rm /var/lib/pacman/db.lck
+yay -S noto-fonts-cjk
+locale-gen
+sudo locale-gen
+aichat -e add volume
+aichat -e add volume arch
+aichat -e add sound volume arch
+history
+history | fzf
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+ls
+startx
+netbird up
+nm-connection-editor 
+ping google.com
+netbird down
+netbird up
+netbird --help
+netbird status
+netbird routes
+netbird routes list
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+netbird routes list
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+nm-connection-editor 
+netbird down
+yay -S tailscale
+tailscale login
+sudo systemctl start tailscale
+sudo systemctl start tailscaled
+sudo systemctl statu tailscaled
+sudo systemctl status tailscaled
+tailscale login
+sudo tailscale up
+sudo tailscale login
+tailscale up
+netbird up
+netbird --help
+netbird completion
+netbird completion zsh
+netbird completion nu
+netbird completion zsh
+date now
+open https://api.ipify.org
+http https://api.ipify.org
+http geet https://api.ipify.org
+ping google.com
+http get https://api.ipify.org
+netbird down
+netbird up --dns-router-interval 5s
+netbird status
+netbird connect
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+netbird down
+netbird up
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+pactl set-sink-volume @DEFAULT_SINK@ 15%
+pactl set-sink-volume @DEFAULT_SINK@ 5%
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+date now
+aichat -e check battery life arch linux
+netbird down
+aichat -e check battery life arch linux
+cat /sys/class/power_supply/BAT0/capacity
+yay -S cloudflare
+yay -S cloudflare-warp-bin
+cloudflare
+warp-cli 
+warp-cli connect
+sudo systemctl start CloudflareWARP
+sudo systemctl start warp
+sudo systemctl start warp-cli
+sudo systemctl start cloudflared
+sudo systemctl 
+aichat -e warp-cli run daemon
+aichat -e cloudflare run daemon
+sudo systemctl start cloudflare-warp
+aichat where arch systemctl arch look bin
+aichat how to find service name
+aichat how to find service name systemctl
+systemctl list-unit-files | grep -i "cloudflare"
+systemctl list-unit-files | grep -i "cloud"
+systemctl list-unit-files | grep -i "warp"
+sudo systemctl start warp-svc
+warp-cli connect
+warp-cli status
+warp-cli --log
+warp-cli
+warp-cli generate-completions
+warp-cli generate-completions nu
+warp-cli generate-completions zsh
+warp-cli
+warp-cli registration
+warp-cli registration new
+btop
+yay -R cloudflare-warp-bin
+netbird up
+netbird down
+yay -S tldr
+tldr bspwm
+tldr sxhkd
+tldr
+tldr -l
+tldr --search sxhkd
+tldr --search "sxhkd"
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-kliring-masuk-giro-v1.git
+ls
+mv nds-ui-kliring-masuk-giro-v1/ NDS/
+cd nds
+NDS/
+nds-ui-kliring-masuk-giro-v1/
+git checkout master
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+yarn
+code .
+..
+z depo
+code .
+cd ..
+cd nds-ui-v1
+date now
+z kliring
+code .
+z kliring
+ls
+yarn add vuex
+code .
+z depo
+code .
+git pull
+git branch
+git checkout -b dev-arif
+git pull
+git pull origin trunk
+git push origin dev-arif
+git checkout -b trunk-arif
+git push origin trunk-arif
+rofi -show window
+bspc query -N -n .window | xargs -I{} xdotool getwindowname {} | dmenu -i | xargs -I{} wmctrl -a {}
+yay -S dmenu
+pkill sxhkd & sxhkd &
+pkill sxhkd & sxhkd
+pkill sxhkd && sxhkd &<\n>
+pkill sxhkd & sxhkd &<\n>
+pkill sxhkd and sxhkd &<\n>
+pkill sxhkd; sxhkd;
+pkill sxhkd
+sxhkd &
+sxhkd
+sxhkd --help
+sxhkd
+sxhkd &
+sxhkd &&
+sxhkd
+pkill sxhkd && sxhkd &
+pkill sxhkd ; sxhkd &
+pkill sxhkd; sxhkd &
+pkill sxhkd and sxhkd &
+clear
+ls
+sxhkd &
+pgrep -x sxhkd > /dev/null || sxhkd &
+pgrep -x sxhkd > /dev/null | sxhkd &
+sxhkd
+/bin/sh
+/bin/sh
+clear
+nvim .
+cd ~
+cd nds
+cd NDS/
+cd ~
+clear
+ls
+..
+ls
+..
+ls
+git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>cd rofi-themes-collection
+mkdir -p ~/.local/share/rofi/themes/
+mkdir ~/.local/share/rofi/themes/
+cp themes/ ~/.local/share/rofi/themes/
+cp -r themes/ ~/.local/share/rofi/themes/
+ls ~/.local/share/rofi/themes/
+rm -r themes/
+cp ~/.local/share/rofi/themes/ /themes/
+mkdir themes
+cp ~/.local/share/rofi/themes/ /themes/
+cp ~/.local/share/rofi/themes/ /themes
+cp -r ~/.local/share/rofi/themes/ /themes
+..
+rm -r ~/.local/share/rofi/themes/themes/
+ls
+rm -r rofi-themes-collection/
+git clone https://github.com/lr-tech/rofi-themes-collection.git<\n>cd rofi-themes-collection
+cp -r themes/* ~/.local/share/rofi/themes/
+cd ~/.local/share/rofi/themes/
+ls
+z
+rofi run
+rofi run -d
+rofi run 
+rofi -show run
+rofi-theme-selector
+yarn add @nds/nds-ui-proto
+cp ../nds-ui-cash-deposit-v2/.npmrc .
+date now
+yarn add @nds/nds-ui-proto
+z masuk
+git checkout trunk
+git checkout -b trunk-arif
+git merge (git branch | fzf | str trim)
+date now
+z kliring-masu
+git build
+open Dockerfile
+yarn build
+jest --coverage
+yarn jest --coverage
+ls
+z kliring-masu
+yarn build
+yarn jest --coverage
+yarn add vuex
+jest --coverage
+yarn jest --coverage
+yarn add vuex@3
+yarn jest --coverage
+date now
+z masuk
+yarn jest --coverage
+z
+ls
+cd nds
+cd NDS/
+ls
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-paramconfig-maintenance.git
+cd nds-ui-paramconfig-maintenance/
+ls
+date now
+yarn
+jest
+yarn jest --coverage
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+yarn jest --coverage
+yarn test unit:ui
+yarn
+yarn test:unit
+z kliring-masu
+jest --coverage
+yarn jest --coverage
+yay -S lazygit
+lazygit
+git checkout trunk-arif
+git merge (git branch | fzf | str trim)
+git add .
+git commit -m "up version"
+git push
+date now
+yarn test:unit:ui
+nvim .
+z kliring
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+z lirin
+yarn jest --coverage
+yarn add vuex@3
+yarn jest --coverage
+date now
+aichat -e how to get battery value
+cat /sys/class/power_supply/BAT0/capacity 
+cat /sys/class/power_supply/BAT0/capacity
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+z masu
+lazygit
+git checkout trunk-arif
+ls
+git merge (git branch | fzf | str trim)
+lazygit
+lazygit
+date now
+nvim .
+z kliri
+netbird up
+netbird down
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-registration-ib.git
+cd nds-ui-registration-ib/
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+yay -S sqlectron-gui
+sqlectron-gui
+yarn
+mise use node@22
+yay -S sqlectron-term
+yay -S sqlectron-gui-bin
+yay -R sqlectron-gui
+yarn
+yay -S adminer
+adminer
+yay -R adminer
+aichat -e how uninstall package with dependencies
+yay -Rns adminer
+docker info
+systemctl start docker
+docker info
+docker run 9001:8080 adminer<\n>
+code .
+docker run -p 9001:8080 adminer<\n>
+docker ps
+docker stop devops
+docker stop devops-app-1
+docker ps
+docker image ls
+docker run -p 9001:8080 adminer<\n>
+docker run -p 9001:8080 adminer -d
+docker run --help
+docker run -d -p 9001:8080 adminer
+yay -S oxker
+docker ps
+docker stop adminer
+docker stop 41018fb88ee7
+docker ps
+docker container list
+docker image ls
+sudo docker container ls
+..
+ls
+..
+ls
+mkdir SELF_HOSTED
+cd SELF_HOSTED/
+mkdir adminer
+nvim .
+touch adminer/compose.yml
+nvim .
+docker run --help
+aichat docker run command to network mode host
+docker run -d --network=host -p 9001:8080 adminer
+oxker
+cat /sys/class/power_supply/BAT0/capacity
+yay -S rofi-paste
+yay -S rofi-gpaste
+yay -S greenclip
+z
+nvim .
+.config/
+code .
+sh
+greenclip
+greenclip print
+greenclip clear
+systemctl start greenclip
+/usr/bin/greenclip daemon
+sudo systemctl enable greenclip
+sudo systemctl start greenclip
+sudo systemctl start greenclip.service
+..
+code .
+ls
+nvim greenclip.toml
+sudo systemctl start greenclip.service
+/usr/bin/greenclip daemon
+nvim greenclip.toml
+/usr/bin/greenclip daemon
+/usr/bin/greenclip daemon -d
+aichat create daemon service
+aichat create daemon service arch linux
+cat /etc/systemd/system/netbird.service
+greenclip --help
+sudo nvim /etc/systemd/system/greenclip.service
+aichat save nvim with sudo
+sudo --help
+nvim /etc/systemd/system/greenclip.service
+sudo nvim /etc/systemd/system/greenclip.service
+sudo su
+sudo pacman -Syu
+passwd
+passwd root
+sudo pacman -Syu
+date now
+yay -Syu
+z kliring
+code .
+yarn add vuex
+git checkout trunk
+git pull
+yarn add vuex@3
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-trx-cash-in-v1.git
+cd nds-ui-trx-cash-in-v1/
+code .
+date now
+..
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-proto-grpc-web.git
+cd nds-ui-proto-grpc-web/
+git checkout dev-arif
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+nvim .
+date now
+git checkout master
+cat package.json
+yarn add @nds/nds-ui-proto
+git push
+git checkout dev-arif
+git merge (git branch | fzf | str trim)
+git reset HEAD
+git reset --hard
+git pull origin trunk
+git pull origin trunk --no-rebase
+z trx
+git commit -m "fix conflict"
+git push
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+git checkout trunk
+git checkout -b trunk-arif
+..
+ls
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-transaksi-cash-out.git
+cd transaksi-cash-out
+cd nds-ui-transaksi-cash-out
+ls
+gco
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+btop
+nvim .
+z account
+ls
+code .
+cat /sys/class/power_supply/BAT0/capacity
+cat /sys/class/power_supply/BAT0/capacity 
+nm-connection-editor 
+netbird down
+cat /sys/class/power_supply/BAT0/capacity 
+notify-send
+notify-send 'Hello world!' 'This is an example notification.' --icon=dialog-information
+nvim .
+z accoun
+exit
+tmux
+exit
+nvim .
+code .
+date now
+netbird down
+date now
+pm2 resurrect
+poweroff
+nm-connection-editor 
+sudo nvim /etc/systemd/system/greenclip.service
+greenclip --help
+greenclip print
+nvim .config/greenclip.toml
+systemctl start greenclip
+greenclip daemon
+greenclip daemon &
+sh
+sudo nvim /etc/systemd/system/greenclip.service
+ls
+mkdir -p .config/systemd/user/
+nvim /etc/systemd/system/netbird.service
+whoami
+nvim .config/systemd/user/greenclip.service
+sudo systemctl start greenclip.service
+systemctl start greenclip.service
+systemctl enable .config/systemd/user/greenclip.service
+systemctl disable .config/systemd/user/greenclip.service
+systemctl --user enable greenclip.service
+systemctl --user start greenclip.service
+btop
+systemctl restart greenclip
+systemctl --user restart greenclip
+systemctl --user daemon-reload
+btop
+nvim .config/systemd/user/greenclip.service
+sudo systemctl --user restart greenclip
+sudo systemctl --user start greenclip
+systemctl start greenclip
+systemctl enable greenclip
+systemctl --user enable greenclip
+/usr/bin/greenclip daemon
+systemctl --user start greenclip
+systemctl --user start greenclip.service
+btop
+nvim .config/systemd/user/greenclip.service
+systemctl --user restart greenclip.service
+systemctl --user daemon-reload
+systemctl status greenclip
+systemctl --user status greenclip
+systemctl --user restart greenclip.service
+systemctl --user status greenclip
+nvim .config/systemd/user/greenclip.service
+systemctl --user status greenclip
+systemctl --user restart greenclip.service
+systemctl --user status greenclip
+systemctl --user disable greenclip
+systemctl --user status greenclip
+systemctl --user status docker
+systemctl --user status dockerengine
+systemctl status docker
+systemctl --user stop greenclip
+systemctl --user status greenclip
+sudo systemctl enable greenclip
+nvim .config/systemd/user/greenclip.service
+sudo systemctl enable greenclip
+systemctl --user status greenclip
+sudo systemctl --user status greenclip
+sudo systemctl status greenclip
+sudo systemctl enable greenclip
+sudo systemctl --user enable greenclip
+sudo systemctl --user enable greenclip.services
+sudo systemctl --user enable greencli
+sudo systemctl --user enable greenclip.services
+sudo systemctl --user start greenclip.services
+/usr/bin/greenclip 
+/usr/bin/greenclip daemon
+ls
+nvim .config/systemd/user/greenclip.service
+/usr/bin/greenclip daemon
+nvim .config/systemd/user/greenclip.service
+systemctl --user status greenclip
+systemctl --user start greenclip
+systemctl --user daemon-reload greenclip
+nvim .config/systemd/user/greenclip.service
+sudo systemctl start greenclip.service
+cp .config/systemd/user/greenclip.service /etc/systemd/system/
+sudo cp .config/systemd/user/greenclip.service /etc/systemd/system/
+sudo systemctl start greenclip.service
+sudo systemctl enable greenclip.service
+sudo systemctl restart greenclip.service
+sudo systemctl stop greenclip.service
+sudo systemctl start greenclip.service
+sudo systemctl status greenclip.service
+sudo systemctl stop greenclip.service
+sudo systemctl disable greenclip.service
+rm -r /etc/systemd/system/greenclip.service
+sudo rm -r /etc/systemd/system/greenclip.service
+nano
+vim .xinitrc
+startx
+netbird up
+greenclip clear
+greenclip
+greenclip print
+greenclip help
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+pactl set-sink-volume @DEFAULT_SINK@ +15%
+nchat
+cat /sys/class/power_supply/BAT0/capacity 
+yay -S nchat
+nvhat
+nchat -S
+pactl set-sink-volume @DEFAULT_SINK@ -15%
+xrandr --dpi 150
+xrandr --dpi 240
+aichat show display xrandr
+xrandr
+xrandr --auto
+xrandr --output eDP1 --dpi 120
+xrandr --output eDP1 --dpi 150
+xrandr --output eDP1 --scale 1.25x1.25
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 240
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 120
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 180
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 100
+xrandr
+xrandr --output eDP1 --scale 1.1x1.1 --dpi 150
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 160
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 160 +Vsync
+xrandr --output eDP1 --scale 1.25x1.25 --dpi 160 -HSync +Vsync
+xrandr --mode "1920x1080_60.00" --output eDP1 --scale 1.25x1.25 --dpi 160
+xrandr --output eDP1 --mode "1920x1080_60.00" --scale 1.25x1.25 --dpi 160
+xrandr --output eDP1 --mode "1920x1080" --scale 1.25x1.25 --dpi 160
+polybar
+btop
+nvim .
+ls
+clear
+vim .
+reboot
+sudo -v ; curl https://rclone.org/install.sh | sudo bash
+ls
+sudo -v ; curl https://rclone.org/install.sh | sudo sh
+bash
+sudo -v
+curl https://rclone.org/install.sh | sudo bash
+curl https://rclone.org/install.sh
+ls
+curl https://rclone.org/install.sh -o
+ls
+aichat install rclone
+aichat install rclone arch linux
+yay -S rclone
+netbird down
+yay -S rclone
+rclone config
+rclone --help
+rclone ls
+rclone help
+rclone listremotes
+rclone ls onedrive
+rclone ls
+rclone
+thunar
+rclone lsd remote:
+rclone lsd remote:onedrive
+rclone lsd remote
+rclone lsd onedrive
+rclone lsd
+rclone lsd remote:/
+rclone lsd remote:
+rclone ls remote
+rclone ls remote:
+rclone lsd remote:
+rclone ls remote:
+rclone ls
+rclone ls --fast-list
+yay -S xdotool
+pkill sxhkd
+bspc wm -r
+nvim .
+startx
+yay -S xdotool
+nm-connection-editor 
+ls
+clear
+nvim .
+config
+netbird status
+netbird up
+cat /sys/class/power_supply/BAT0/capacity 
+pactl set-sink-volume @DEFAULT_SINK@ -15%
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+rclone ls
+rclone lsd remote:
+rclone config
+rclone lsd remote:onedrive
+rclone
+rclone sync ~/onedrive/ /
+rclone sync ~/onedrive/ remote:onedrive
+rclone sync ~/onedrive/ 
+mkdir onedrive
+rclone sync ~/onedrive/ /
+rclone
+rclone link
+rclone nfsmount
+rclone nfsmount remote:onedrive ~/onedrive
+rclone tree
+rclone 
+rclone test
+rclone test info
+rclone test info --all
+rclone config
+netbird down
+rclone config
+rclone ls remote:onedrive
+rclone ls remote:root
+rclone ls remote:onedrive/root
+aichat rclone list all drive
+rclone lsdrive
+aichat rclone list all folder
+rclone lsf --dir-only
+rclone lsd onedrive:
+rclone 
+yay -S fuse
+mkdir -p ~/mnt/onedrive
+mkdir ~/mnt/onedrive
+rclone mount onedrive: ~/mnt/onedrive --daemon
+rclone mount onedrive:/ ~/mnt/onedrive --daemon
+rclone mount onedrive:/ ~/mnt/onedrive
+rclone mount onedrive:/ ~/mnt/onedrive --daemon --vfs-cache-mode writes
+rclone mount onedrive:/ ~/mnt/onedrive --vfs-cache-mode writes
+fusermount
+fuse
+/usr/bin/fuse
+/usr/bin/fusermount
+/usr/bin/fusermount -V
+yay -S fuse3
+fuse
+fuse3
+fusermount3
+rclone mount onedrive:/ ~/mnt/onedrive --daemon
+ls
+cd mnt
+ls
+cd onedrive
+ls
+lsl
+ls
+..
+ls
+..
+ls
+rm -r onedrive/
+nvim .
+z onedrive
+ls
+cd `Documents/Obsidian Vault/`
+ls
+ls -la
+cat .obsidian/
+cat .obsidian/app.json
+netbird down
+warp-cli disconnect
+yay -R cloudflare-warp-bin
+tailscale down
+ip addr
+ip dns
+aichat -e get dns
+aichat -e get local dns
+aichat -e local dns table
+cat /etc/resolv.conf
+ls
+netbird up
+z account
+code .
+netbird down
+z acc
+git checkout trunk
+git pull
+git checkout -b dev-arif
+git merge (git branch | fzf | str trim)
+xrandr --scale 1.25x1.25 --dpi 160
+xrandr --output eDP1 --mode "1920x1080" --scale 1.15x1.15 --dpi 160
+netbird up
+xrandr --output eDP1 --mode "1920x1080" --scale 1.2x1.2 --dpi 160
+xrandr --output eDP1 --mode "1920x1080" --scale 1.1x1.1 --dpi 160
+netbird up
+docker info
+docker --help
+sudo systemctl status docker
+sudo systemctl enable docker
+sudo systemctl status docker
+systemctl start docker
+systemctl status docker
+ls
+clear
+ls
+ls mnt/onedrive/
+netbird down
+netbird up
+code .
+cd nds
+cd NDS/
+code .
+ls
+aichat -e flush dns
+netbird down
+netbird up
+xrandr --output eDP1 --mode "1920x1080" --scale 1x1 --dpi 160
+docker run -d -p 9002:8081 --name nexus sonatype/nexus3
+yay -S jammer
+netbird down
+docker run -d -p 9002:8081 --name nexus sonatype/nexus3
+date now
+yay -S jammer
+yay -R jammer
+jammer
+yay -S jammer
+yay -R jammer-appimage
+docker run -d -p 9002:8081 --name nexus sonatype/nexus3
+docker ps
+aichat shell into docker container
+docker attach nexus
+docker ps -a
+docker ps
+docker start nexus
+docker ps
+docker logs
+docker logs nexus
+docker stop nexus
+docker ps
+docker start nexus
+docker ps
+docker log nexis
+docker log nexus
+docker logs nexus
+docker
+docker attach nexus
+docker ps
+docker logs nexus
+aichat docker shell to container
+docker ps
+docker start nexus
+z depop
+z depo
+cat .npmrc
+..
+ls
+git clone https://bitbucket.bri.co.id/scm/nds/nds-ui-base-quasar.git
+cd nds-ui-base-quasar/
+ls
+nano
+nvim .
+yarn
+ls
+yarn dev
+rm -r node_modules/
+z base
+ls
+btop
+yarn devarn
+yarn dev
+yarn
+ls
+yarn dev
+yarn add @nds/nds-ui-proto
+ls
+nvim .
+rm -r yarn.lock
+rm -r node_modules/
+cat .npmrc
+yarn add @nds/nds-ui-proto
+docker exec -it nexus /bin/bash
+yarn
+git pull origin master
+nvm use 14
+mise use node@14
+git pull origin master
+ls
+ls -la
+git reset
+ls -la
+lazygit
+yarn
+yarn add @nds/nds-ui-proto
+z depo
+rm -r node_modules/
+yarn
+clear
+ls
+docker image ls
+docker ps
+docker ps -a
+docker ps -la
+oxker
+docker container list
+docker ps -a
+docker container -a
+docker container list
+docker container list -a
+docker container --help
+docker container rename keen_heyrovsky adminer
+docker container list -a
+docker start adminer
+docker ps
+cat /sys/class/power_supply/BAT0/capacity
+z acc
+code .
+docker ps
+docker ps -a
+docker container list -a
+docker image -a
+docker image ls
+btop
+z acc
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+pm2 resurrect
+z cash-o
+oxker
+ls
+pm2 list
+pm2 restart 0
+oxker
+pm2 restart 0
+date now
+date now
+z cash-ou
+z kliring
+nvim .
+nvim .
+lazygit
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+git pull origin trunk
+git merge (git branch | fzf | str trim)
+nvim .
+lazygit
+z cross-sel
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+nvim .
+lazygit
+nvim .
+git branch
+git branch -r
+nvim .
+lazygit
+git checkout dev-arif
+git pull origin master
+git merge (git branch | fzf | str trim)
+nvim .
+lazygit
+git push
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+git push
+z trx
+z acc
+pm2 resurrect
+code .
+netbird down
+z trx
+nvim .
+date now
+ls
+date now
+z ib
+ls
+code .
+nvim /
+nvim .
+git checkout dev-arif
+git merge (git branch | fzf | str trim)
+git push
+yarn dev
+rclone mount onedrive:/ ~/mnt/onedrive --daemon
+thunar
+nvim .
+systemctl status rclone
+z cash-ou
+git checkout (git branch -r | fzf | str trim | str replace "origin/" "")
+nvim .
+z cash-out
+yarn test:unit:ui
+docker start nexus
+z acc
+yarn
+nvim .
+yarn test:unit:ui
+git branch
+z dev-arif
+git checkout dev-arif
+jest --coverage
+yarn jest --coverage
+nvim .
+lazygit
+z cash-out
+nvim .
+lazygit
+yarn test:unit:ui
+z acc
+nvim .
+yarn add @nds/nds-ui-proto
+nvm use 16
+mise use node@22
+yarn add @nds/nds-ui-proto
+code .
+git push
+z cross
+nvim .
+mise use node@16
+yarn jest --coverage
+cat /sys/class/power_supply/BAT0/capacity
+pactl set-sink-volume @DEFAULT_SINK@ +25%
+cat /sys/class/power_supply/BAT0/capacity
+btop
+pactl set-sink-volume @DEFAULT_SINK@ -25%
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+aichat arch linux bluetooth connect
+systemctl status bluetooth
+systemctl enable bluetooth
+bluetoothctl
+thunar
+time now
+date now
+aichat rclone how to cache daemon
+aichat rclone how to cache
+z config
+ls
+cd menus/
+ls
+cd applications-merged/
+ls
+nvim .
+..
+ls
+..
+config nu
+ls
+z config
+ls
+$nu.config-path
+cd nushell
+ls
+$nu.plugin-path
+$nu.default-config-dir
+$nu.os-info
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+neofetch
+df -o
+nvim .
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+pactl set-sink-volume @DEFAULT_SINK@ +5%
+yay -S wine
+yay -S ksnip
+ksnip
+cd Downloads/
+ls
+aichat -e extract tar file
+tar -xvf ksnip-plugin-ocr-continuous.tar.gz
+ls
+cd ksnip-plugin-ocr-continuous/
+ls
+make
+cd cmake
+ls
+cd ..
+ls
+cd src
+ls
+cd ..
+ksnip
+btop
+bspc wm -r
+yay -R cloudflare-warp-bin
+yay -R cloudflare-warp
+yay -R warp-cli
+warp-cli disconnect
+netbird down
+netbird
+netbird service
+netbird service stop
+netbird service start
+netbird service stop
+systemctl disable netbird
+nvim .
+nvim /usr/bin/bspwm
+aichat bspwm default config file
+aichat bspwm rules for spotify
+bspc --help
+bspc 
+bspc wm --help
+bspc wm
+bspc
+bspc rule -a ksnip state=floating
+bspc rule -a ksnip state=floating desktop=D
+bspc rule -a ksnip state=tiled desktop=D
+tailscale login
+systemctl enable tailscale
+systemctl enable tailscaled
+tailscale login
+systemctl start tailscaled
+tailscale login
+tailscale up --operator=$USER
+tailscale up --operator=arif
+pactl set-sink-volume @DEFAULT_SINK@ -5%
+sudo tailscale login
+tailscale up
+sudo tailscale up
+tailscale
+tailscale exit-node
+tailscale exit-node list
+ping 100.105.250.127
+curl http://api.ipify.org
+yay -S noi-desktop-bin
+tailscale exit-node list
+tailscale exit-node suggest
+tailscale set --exit-node=njVC195eWp11CNTRL
+tailscale set --exit-node=100.105.250.127
+sudo tailscale set --exit-node=100.105.250.127
+curl http://api.ipify.org
+yay -S noi-desktop-bin
+tailscale set --exit-node
+tailscale set --exit-node=
+sudo tailscale set --exit-node=
+curl http://api.ipify.org
+yay -S noi-desktop-bin
+ls
+.config/
+ls
+git init
+git remote add origin https://github.com/moharifhidayat7/.dotfiles.git
+git pull
+git pull origin main
